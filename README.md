@@ -1,2 +1,2 @@
-# oi-algorithm
+# OI-Algorithm
 C++ OI Algorithm
