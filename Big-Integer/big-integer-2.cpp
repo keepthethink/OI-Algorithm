@@ -3,7 +3,6 @@
 #include <algorithm>
 using namespace std;      //代码非原创，来源CSDN用户IcEnternal 源地址http://blog.csdn.net/devillaw_zhc/article/details/7776578
 
-
 const int power = 1;   //每次运算的位数为10的power次方，在这里定义为了方便程序实现
 const int base = 10;   //10的power次方。
 
