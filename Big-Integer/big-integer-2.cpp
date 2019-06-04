@@ -9,7 +9,6 @@ const int base = 10;   //10的power次方。
 
 //要压位的时候，只需改power 和 base即可，如压万位高精，那么power = 4, base = 10000
 
-
 const int MAXL = 1001;  //数组的长度。
 
 
